@@ -1,0 +1,9 @@
+* python app with github actions
+
+#+begin_src shell
+# create this in the root of your repository
+mkdir -vp ./.github/workflows
+touch ./.github/workflows/pytest.yml
+touch ./.github/workflows/python-version.yml
+touch ./.github/workflows/docker-build.yml
+#+end_src

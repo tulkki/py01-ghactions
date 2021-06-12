@@ -1,0 +1,10 @@
+*~
+*#
+**/*~
+*.swp
+*.swo
+**/*~
+**/*.bak
+**/*.sw[abcdefghijklmnop]
+*lock
+**/*.log*
